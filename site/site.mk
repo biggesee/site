@@ -12,7 +12,7 @@ GLUON_PRIORITY ?= ${DEFAULT_GLUON_PRIORITY}
 # enable multidomain support
 # GLUON_MULTIDOMAIN=1
 GLUON_LANGS ?= en de
-GLUON_WLAN_MESH ?= 11s
+#GLUON_WLAN_MESH ?= 11s
 GLUON_REGION := eu
 ###################
 #
